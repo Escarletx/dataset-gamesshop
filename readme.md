@@ -1,11 +1,23 @@
-# Características
+# Empresa
+## Meganium Games
 
-- A empresa foca apenas em fabricação de consoles, deixando a distribuição e venda para terceiros
-- Os produtos são vendidos globalmente
+# Linha de produtos
+## RG40XXV
+## RG28XX
+## RGCubeXX
+## RG353M
+
+# Características da empresa
+## Foco na fabricação dos produtos: consoles
+## Distribuição e vendas realizada por terceiros
+## Venda Global de produtos
+
+# Problemas
+## As bases de vendas não são integradas
+## Dificuldade em gerar métricas de vendas
 
 # Objetivos
-
-- [ ] Consolidar todas as bases de terceiros para realizar uma análise
-- [ ] Transformar dados de vendasem informações relevantes para a fabricante
-- [ ] Quais são os produtos mais populares em cada país
-- [ ] Como otimizar o processo de transporte e logística até o momento da venda
+## [x]Integrar as bases de dados de vendas disponibilizadas por terceiros para possibilitar a análise
+## [x]Transformar os dados de vendas em insights úteis para o fabricante
+## [x]Gerar métricas de produtos mais populares por país
+## [x]Otimizar o processo de transporte e logistica dos produtos até a venda
